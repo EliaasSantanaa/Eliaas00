@@ -1,5 +1,5 @@
 👋 Olá! Eu sou Elias Santana
-💻 Estagiário de Desenvolvimento FullStack no Grupo Safira | 🚀 Apaixonado por tecnologia | ⚽ Fã de futebol
+🚀 Apaixonado por tecnologia | ⚽ Fã de futebol
 
 Sou um entusiasta do desenvolvimento de software, sempre buscando aprimorar minhas habilidades e criar soluções inovadoras. Trabalho com tecnologias modernas para construir aplicações escaláveis e eficientes.
 
