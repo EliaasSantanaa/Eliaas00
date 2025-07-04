@@ -23,8 +23,22 @@
 
 ## 🖥️ My Tech Stack:
 
+- ## Front-end
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,html,scss,ts,js,nodejs,firebase,gcp,postgres,prisma,nestjs" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,html,scss,ts,js" />
+</div>
+
+- ## Back-end
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,py" />
+</div>
+
+- ## Database
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=firebase,gcp,postgres,prisma" />
 </div>
 
 ---
