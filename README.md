@@ -9,7 +9,6 @@
 
 - 🧠 I'm currently working at **Paraty Energia**
 - 🌱 I'm passionate about **React, Next.js, Angular, NestJS** and **Firebase**
-- 🚀 I'm striving to increase my **GitHub stats rating** by contributing to **open source**
 - ⚡ Fun fact: I like training, watching Netflix and playing football!
 
 ---
