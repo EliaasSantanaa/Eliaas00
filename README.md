@@ -59,14 +59,6 @@
 
 ---
 
-## 📈 GitHub Contribution Streak
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EliaasSantanaa&theme=dark&hide_border=true" />
-</div>
-
----
-
 ## 🎮 When I'm AFK:
 
 <div align="center">
