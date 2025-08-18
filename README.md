@@ -22,7 +22,7 @@
 
 ## 🖥️ My Tech Stack:
 
-- ## Front- end
+- ## Front-end
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,angular,html,scss,ts,js" />
