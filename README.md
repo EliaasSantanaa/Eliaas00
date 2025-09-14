@@ -53,8 +53,8 @@
 ## 🏆 My Stats:
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=EliaasSantanaa&show_icons=true&theme=dark&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliaasSantanaa&layout=compact&langs_count=10&theme=github_dark&hide_border=true" />
+    <img src="https://github-readme-stats-eosin-gamma-81.vercel.app/api?username=EliaasSantanaa&show_icons=true&theme=dark&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-eosin-gamma-81.vercel.app/api/top-langs/?username=EliaasSantanaa&layout=compact&langs_count=10&theme=github_dark&hide_border=true" />
 </div>
 
 ---
