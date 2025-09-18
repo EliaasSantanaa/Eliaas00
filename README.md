@@ -31,13 +31,13 @@
 - ## Back-end
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,py" />
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,py" />
 </div>
 
 - ## Database
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=firebase,gcp,postgres,prisma" />
+  <img src="https://skillicons.dev/icons?i=aws,firebase,gcp,postgres,prisma" />
 </div>
 
 ---
